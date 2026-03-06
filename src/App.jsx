@@ -6,6 +6,7 @@ import TvShow from "./components/TvShow/TvShow"
 import Watch from "./components/Watch/Watch"
 import MacBookPro from "./components/MacBook/MacBookPro"
 import './index.css'
+import Footer from "./components/Footer/Footer"
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Watch />
       <TvShow />
       <MacBookPro />
+      <Footer />
     </div>
       
     </>
