@@ -7,6 +7,7 @@ import Watch from "./components/Watch/Watch"
 import MacBookPro from "./components/MacBook/MacBookPro"
 import './index.css'
 import Footer from "./components/Footer/Footer"
+import Youtube from "./components/Youtube/Youtube"
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
       <Watch />
       <TvShow />
       <MacBookPro />
+      <Youtube />
       <Footer />
     </div>
       
